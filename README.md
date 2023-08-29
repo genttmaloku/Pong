@@ -25,6 +25,7 @@ Sprites: Ky dosje përmban skedarë imazhesh të përdorura për elementët vizu
 **Autori**
 
 Ky projekt është zhvilluar nga Gent Maloku me mentorin Berat Hasani.
+
 Ju lutemi mos hezitoni të na kontaktoni për çdo pyetje rreth këtij projekti.
 
 Email:malokugentt@gmail.com
@@ -56,6 +57,7 @@ Sprites: This folder contains image files used for visual elements in the game.
 **Author**
 
 This project was developed by Gent Maloku with mentor Berat Hasani.
+
 Please do not hesitate to contact us if you have any inquiries regarding this project.
 
 Email:malokugentt@gmail.com
