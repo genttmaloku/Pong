@@ -65,3 +65,6 @@ Please do not hesitate to contact us if you have any inquiries regarding this pr
 Email:malokugentt@gmail.com
 
 Test the game:https://genttmaloku.itch.io/pong
+
+![pong](https://github.com/genttmaloku/Pong/assets/121188583/d593cc0b-1575-4bc6-84d8-95d20359d5ed)
+
