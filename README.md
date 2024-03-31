@@ -30,6 +30,8 @@ Ju lutemi mos hezitoni të na kontaktoni për çdo pyetje rreth këtij projekti.
 
 Email:malokugentt@gmail.com
 
+Testo lojën:https://genttmaloku.itch.io/pong
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 Pong Game in Unity (C#)
@@ -61,3 +63,5 @@ This project was developed by Gent Maloku with mentor Berat Hasani.
 Please do not hesitate to contact us if you have any inquiries regarding this project.
 
 Email:malokugentt@gmail.com
+
+Test the game:https://genttmaloku.itch.io/pong
